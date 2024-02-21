@@ -1,0 +1,14 @@
+E:\CDB dotnet\Circulo\bin\Debug\net8.0\Circulo.exe
+E:\CDB dotnet\Circulo\bin\Debug\net8.0\Circulo.deps.json
+E:\CDB dotnet\Circulo\bin\Debug\net8.0\Circulo.runtimeconfig.json
+E:\CDB dotnet\Circulo\bin\Debug\net8.0\Circulo.dll
+E:\CDB dotnet\Circulo\bin\Debug\net8.0\Circulo.pdb
+E:\CDB dotnet\Circulo\obj\Debug\net8.0\Circulo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDB dotnet\Circulo\obj\Debug\net8.0\Circulo.AssemblyInfoInputs.cache
+E:\CDB dotnet\Circulo\obj\Debug\net8.0\Circulo.AssemblyInfo.cs
+E:\CDB dotnet\Circulo\obj\Debug\net8.0\Circulo.csproj.CoreCompileInputs.cache
+E:\CDB dotnet\Circulo\obj\Debug\net8.0\Circulo.dll
+E:\CDB dotnet\Circulo\obj\Debug\net8.0\refint\Circulo.dll
+E:\CDB dotnet\Circulo\obj\Debug\net8.0\Circulo.pdb
+E:\CDB dotnet\Circulo\obj\Debug\net8.0\Circulo.genruntimeconfig.cache
+E:\CDB dotnet\Circulo\obj\Debug\net8.0\ref\Circulo.dll

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circulo", "Circulo.csproj", "{31EE096F-85A1-4C00-9798-A7F17395061E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contabancaria", "..\contabancaria\contabancaria.csproj", "{314EE794-2266-434A-8903-D28BB6763E10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "retangulo", "..\retangulo\retangulo.csproj", "{D8649545-FBA3-4431-BA44-FC1CDCFEFA1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31EE096F-85A1-4C00-9798-A7F17395061E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EE096F-85A1-4C00-9798-A7F17395061E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EE096F-85A1-4C00-9798-A7F17395061E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EE096F-85A1-4C00-9798-A7F17395061E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314EE794-2266-434A-8903-D28BB6763E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314EE794-2266-434A-8903-D28BB6763E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314EE794-2266-434A-8903-D28BB6763E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314EE794-2266-434A-8903-D28BB6763E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8649545-FBA3-4431-BA44-FC1CDCFEFA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8649545-FBA3-4431-BA44-FC1CDCFEFA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8649545-FBA3-4431-BA44-FC1CDCFEFA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8649545-FBA3-4431-BA44-FC1CDCFEFA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C9FC9EF-B135-43D7-B684-F156854EEE55}
+	EndGlobalSection
+EndGlobal
