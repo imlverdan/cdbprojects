@@ -1,0 +1,14 @@
+E:\CDB dotnet\produto\bin\Debug\net8.0\produto.exe
+E:\CDB dotnet\produto\bin\Debug\net8.0\produto.deps.json
+E:\CDB dotnet\produto\bin\Debug\net8.0\produto.runtimeconfig.json
+E:\CDB dotnet\produto\bin\Debug\net8.0\produto.dll
+E:\CDB dotnet\produto\bin\Debug\net8.0\produto.pdb
+E:\CDB dotnet\produto\obj\Debug\net8.0\produto.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDB dotnet\produto\obj\Debug\net8.0\produto.AssemblyInfoInputs.cache
+E:\CDB dotnet\produto\obj\Debug\net8.0\produto.AssemblyInfo.cs
+E:\CDB dotnet\produto\obj\Debug\net8.0\produto.csproj.CoreCompileInputs.cache
+E:\CDB dotnet\produto\obj\Debug\net8.0\produto.dll
+E:\CDB dotnet\produto\obj\Debug\net8.0\refint\produto.dll
+E:\CDB dotnet\produto\obj\Debug\net8.0\produto.pdb
+E:\CDB dotnet\produto\obj\Debug\net8.0\produto.genruntimeconfig.cache
+E:\CDB dotnet\produto\obj\Debug\net8.0\ref\produto.dll
